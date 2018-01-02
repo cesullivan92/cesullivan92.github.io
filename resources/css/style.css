@@ -5,7 +5,13 @@ body{
 
 #main-banner{
   background-image: url("./images/background_image.png");
+}
+
+#second-banner{
+  background-image: url("./images/background_image.png");
   color: white;
+  font-weight: bold;
+  font-size: 23px;
 }
 
 h1{
